@@ -1,0 +1,2 @@
+# We first read the zip file using a zipfile.ZipFile object.
+with ZipFile("names.zip") as temp_zip:
